@@ -11,3 +11,12 @@
 @import url(../blocks/header/__links/header__links.css);
 @import url(../blocks/header/__link/header__link.css);
 @import url(../blocks/header/__link/_active/header__link_active.css);
+
+@import url(../blocks/welcome/welcome.css);
+@import url(../blocks/welcome/__image/welcome__image.css);
+@import url(../blocks/welcome/__description/welcome__description.css);
+@import url(../blocks/welcome/__title/welcome__title.css);
+@import url(../blocks/welcome/__title/_span/welcome__title_span.css);
+@import url(../blocks/welcome/__subtitle/welcome__subtitle.css);
+@import url(../blocks/welcome/__button/welcome__button.css);
+

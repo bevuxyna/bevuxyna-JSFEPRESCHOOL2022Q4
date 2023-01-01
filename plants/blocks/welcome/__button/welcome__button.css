@@ -1,0 +1,19 @@
+.welcome__button {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000;
+    width: 158px;
+    height: 44px;
+    border: 2px solid #E06733;
+    border-radius: 10px;
+    background-color: #EDF2EC;
+}
+
+.welcome__button:hover {
+    background-color: #E06733;
+    color: #FFFFFF;
+    cursor: pointer;
+    transition: .5s ease-in-out;
+}
