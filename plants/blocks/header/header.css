@@ -1,0 +1,12 @@
+.header {
+    font-family: 'Inika', 'Arial', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+    background-color: #EDF2EC;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 42px 109px 42px 111px;
+}

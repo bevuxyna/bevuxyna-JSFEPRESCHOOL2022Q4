@@ -1,0 +1,7 @@
+.header__link {
+    text-decoration: none;
+    transition: .5s opacity;
+    color: #010201;
+    line-height: 50px;
+    margin: 0;
+}
