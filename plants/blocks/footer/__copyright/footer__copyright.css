@@ -1,0 +1,11 @@
+.footer__copyright {
+    display: flex;
+    column-gap: 20px;
+    max-width: 182px;
+    font-family: 'Inter', 'Arial', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 50px;
+    color: #000000;
+}
