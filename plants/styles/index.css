@@ -27,6 +27,18 @@
 @import url(../blocks/about/__subtitle/about__subtitle.css);
 @import url(../blocks/about/__image/about__image.css);
 
+@import url(../blocks/service/service.css);
+@import url(../blocks/service/__description/service__description.css);
+@import url(../blocks/service/__title/service__title.css);
+@import url(../blocks/service/__buttons/service__buttons.css);
+@import url(../blocks/service/__button/service__button.css);
+@import url(../blocks/service/__elements/service__elements.css);
+@import url(../blocks/service/__element/service__element.css);
+@import url(../blocks/service/__image/service__image.css);
+@import url(../blocks/service/__info/service__info.css);
+@import url(../blocks/service/__info-title/service__info-title.css);
+@import url(../blocks/service/__info-subtitle/service__info-subtitle.css);
+
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 @import url(../blocks/footer/__copyright-text/footer__copyright-text.css);
