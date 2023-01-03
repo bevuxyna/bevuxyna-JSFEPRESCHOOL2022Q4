@@ -19,4 +19,5 @@
     background-color: #E06733;
     color: #FFFFFF;
     cursor: pointer;
+    transition: .5s ease-in-out;
 }
