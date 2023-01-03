@@ -1,0 +1,9 @@
+.prices__button {
+    background-image: url("../../../images/accordion_btn1.svg");
+    background-repeat: no-repeat;
+    background-color: #EDF2EC;
+    width: 16px;
+    height: 16px;
+    border: none;
+    margin-right: 40px;
+}

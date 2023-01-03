@@ -1,0 +1,22 @@
+.prices__contacts-button {
+    width: 162px;
+    height: 50px;
+    border: 1px solid #E06733;
+    border-radius: 5px;
+    font-family: 'Inika', 'Arial', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 26px;
+    text-align: center;
+    color: #E06733;
+    background-color: #FFFFFF;
+    margin-top: 38px;
+    margin-bottom: 39px;
+}
+
+.prices__contacts-button:hover {
+    background-color: #E06733;
+    color: #FFFFFF;
+    cursor: pointer;
+}

@@ -39,6 +39,20 @@
 @import url(../blocks/service/__info-title/service__info-title.css);
 @import url(../blocks/service/__info-subtitle/service__info-subtitle.css);
 
+@import url(../blocks/prices/prices.css);
+@import url(../blocks/prices/__head/prices__head.css);
+@import url(../blocks/prices/__title/prices__title.css);
+@import url(../blocks/prices/__subtitle/prices__subtitle.css);
+@import url(../blocks/prices/__subtitle/_span/prices__subtitle_span.css);
+@import url(../blocks/prices/__main/prices__main.css);
+@import url(../blocks/prices/__container/prices__container.css);
+@import url(../blocks/prices/__select/prices__select.css);
+@import url(../blocks/prices/__category/prices__category.css);
+@import url(../blocks/prices/__button/prices__button.css);
+@import url(../blocks/prices/__contacts/prices__contacts.css);
+@import url(../blocks/prices/__contacts-button/prices__contacts-button.css);
+@import url(../blocks/prices/__image/prices__image.css);
+
 @import url(../blocks/contacts/contacts.css);
 @import url(../blocks/contacts/__title/contacts__title.css);
 @import url(../blocks/contacts/__container/contacts__container.css);
