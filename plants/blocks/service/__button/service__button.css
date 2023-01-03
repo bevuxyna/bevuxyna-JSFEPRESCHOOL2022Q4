@@ -3,6 +3,8 @@
     height: 50px;
     border: 1px solid #E06733;
     border-radius: 5px;
+    font-size: 20px;
+    line-height: 26px;
     color: #E06733;
     background-color: #EDF2EC;
     transition: .5s ease-in-out;
