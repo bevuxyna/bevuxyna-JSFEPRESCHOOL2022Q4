@@ -27,3 +27,11 @@
 @import url(../blocks/about/__subtitle/about__subtitle.css);
 @import url(../blocks/about/__image/about__image.css);
 
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
+@import url(../blocks/footer/__copyright-text/footer__copyright-text.css);
+@import url(../blocks/footer/__copyright-link/footer__copyright-link.css);
+@import url(../blocks/footer/__social-links/footer__social-links.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__logo/footer__logo.css);
+

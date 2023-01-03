@@ -9,6 +9,8 @@
     border: 2px solid #E06733;
     border-radius: 10px;
     background-color: #EDF2EC;
+    margin-top: 48px;
+    padding: 0;
 }
 
 .welcome__button:hover {
