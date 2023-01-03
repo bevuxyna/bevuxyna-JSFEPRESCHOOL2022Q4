@@ -39,6 +39,14 @@
 @import url(../blocks/service/__info-title/service__info-title.css);
 @import url(../blocks/service/__info-subtitle/service__info-subtitle.css);
 
+@import url(../blocks/contacts/contacts.css);
+@import url(../blocks/contacts/__title/contacts__title.css);
+@import url(../blocks/contacts/__container/contacts__container.css);
+@import url(../blocks/contacts/__image/contacts__image.css);
+@import url(../blocks/contacts/__select/contacts__select.css);
+@import url(../blocks/contacts/__city/contacts__city.css);
+@import url(../blocks/contacts/__button/contacts__button.css);
+
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 @import url(../blocks/footer/__copyright-text/footer__copyright-text.css);
