@@ -1,0 +1,5 @@
+.service__buttons {
+    margin-left: 142px;
+    display: flex;
+    column-gap: 38px;
+}
