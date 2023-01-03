@@ -1,0 +1,7 @@
+.welcome {
+    background-color: #EDF2EC;
+    font-family: 'Inter', 'Arial', sans-serif;
+    font-style: normal;
+    display: flex;
+    padding: 41px 109px 63px;
+}

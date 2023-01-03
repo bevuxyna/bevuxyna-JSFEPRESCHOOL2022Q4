@@ -1,0 +1,8 @@
+.header__logo-wrapper {
+    display: flex;
+    flex-direction: row;
+}
+
+.header__logo-wrapper:hover {
+    cursor: pointer;
+}

@@ -1,0 +1,9 @@
+.prices__category {
+    font-family: 'Inter', 'Arial', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 20px;
+    color: #000000;
+    margin: 0 0 0 40px;
+}

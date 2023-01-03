@@ -1,0 +1,9 @@
+.service__info-subtitle {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #717171;
+    margin: 0;
+    padding-bottom: 36px;
+    text-align: center;
+}

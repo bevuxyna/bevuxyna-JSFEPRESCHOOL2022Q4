@@ -1,0 +1,9 @@
+.service__elements {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    row-gap: 55px;
+    column-gap: 116px;
+}

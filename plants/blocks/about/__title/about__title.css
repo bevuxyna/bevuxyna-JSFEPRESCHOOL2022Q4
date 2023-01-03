@@ -1,0 +1,11 @@
+.about__title {
+    font-family: 'Inika', 'Arial', sans-seri, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 52px;
+    color: #499A18;
+    margin-top: 68px;
+    margin-bottom: 40px;
+    max-width: 463px;
+}

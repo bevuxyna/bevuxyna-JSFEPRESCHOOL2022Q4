@@ -1,0 +1,11 @@
+.contacts__select {
+    width: 450px;
+    height: 50px;
+    background-color: #D6E7D2;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 37px;
+}

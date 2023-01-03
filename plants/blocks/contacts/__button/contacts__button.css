@@ -1,0 +1,15 @@
+.contacts__button {
+    background-image: url("../../../images/accordion_btn.svg");
+    background-repeat: no-repeat;
+    background-color: #D6E7D2;
+    width: 16px;
+    height: 16px;
+    border: none;
+    margin-right: 35px;
+}
+
+.contacts__button:hover {
+    cursor: pointer;
+    opacity: 0.7;
+    transition: opacity ease-in-out;
+}

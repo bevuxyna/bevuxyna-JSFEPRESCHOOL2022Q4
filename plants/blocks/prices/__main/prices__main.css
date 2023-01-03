@@ -1,0 +1,4 @@
+.prices__main {
+    display: flex;
+    justify-content: space-between;
+}
